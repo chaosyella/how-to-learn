@@ -1,5 +1,6 @@
 .feynman {
-    margin-top: 100px;
+    box-sizing: border-box;
+    padding-top: 100px;
     background-color: #f2f2f2;
     display: flex;
     flex-direction: column;
