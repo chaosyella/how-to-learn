@@ -33,7 +33,7 @@ creating website helped to improve these skills:
 ```
 * **iframes**
 ```html
-<iframe class="video__iframe" id="ytplayer" type="text/html" width="515" height="316" 
+<iframe class="video__iframe" id="ytplayer" type="text/html" 
 src="https://www.youtube.com/embed/arj7oStGLkU?hl=ru&modestbranding=1"
 frameborder="0" allowfullscreen></iframe>
 ```
