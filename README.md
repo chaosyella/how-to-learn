@@ -41,7 +41,7 @@ frameborder="0" allowfullscreen></iframe>
 ```html
 <ul class="cards">
                 <li class="cards__item">
-                    <img class="cards__image" src="images/cards-attention.png" alt="attention">
+                    <img class="cards__image" src="images/cards-attention.png" alt="внимание">
                     <h3 class="cards__title">Два вида внимания</h3>
                     <p class="cards__description">Глубокие знания возникают, если чередовать сфокусированное 
                         и рассеянное мышление.</p>
@@ -49,7 +49,7 @@ frameborder="0" allowfullscreen></iframe>
 ```
 * **nested type of structure**
 ```css
-@import url(../blocks/header/header.css);
-@import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(./../blocks/header/header.css);
+@import url(./../blocks/logo/logo.css);
+@import url(./../blocks/logo/_place/logo_place_header.css);
 ``` 
