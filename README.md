@@ -1,6 +1,6 @@
 # project "how-to-learn" by yella
 ## description
-this is a website made up with **css** and **html**. it contains _useful information about studying and different tecniques to make it easier_.
+this is a [website](https://chaosyella.github.io/how-to-learn) made up with **css** and **html**. it contains _useful information about studying and different tecniques to make it easier_.
 ## functionality
 creating website helped to improve these skills:
 * **BEM-methodology**
